@@ -1,0 +1,19 @@
+{
+  "id": 3,
+  "name": "BBQ Bacon Burger",
+  "description": "Carne, cheddar, bacon crocante y salsa BBQ. ¡Nuestro favorito del mes!",
+  "price": 6900,
+  "original_price": 7600,
+  "discount_percentage": 10,
+  "image": "https://images.unsplash.com/photo-1606756790138-261d2b21cd75?q=80&w=1200&auto=format&fit=crop",
+  "image_url": "https://images.unsplash.com/photo-1606756790138-261d2b21cd75?q=80&w=1200&auto=format&fit=crop",
+  "preparation_time": "10-15 min",
+  "servings": "1 persona",
+  "rating": 4.7,
+  "reviews_count": 123,
+  "discount_amount": 700,
+  "discount_percentage_calculated": 10,
+  "is_active": true,
+  "created_at": "",
+  "updated_at": ""
+}

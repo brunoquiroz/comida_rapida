@@ -1,0 +1,139 @@
+[
+  {
+    "id": 101,
+    "customer_name": "Juan Pérez",
+    "customer_phone": "+54 11 5555-0001",
+    "customer_email": "juan.perez@example.com",
+    "delivery_address": "Av. Demo 123, CABA",
+    "delivery_notes": "Timbre 2B",
+    "status": "pending",
+    "total_amount": 9000,
+    "items": [
+      {
+        "id": 1,
+        "product": 1,
+        "product_name": "Hamburguesa Clásica",
+        "product_description": "Carne 100% vacuna, lechuga, tomate, cheddar",
+        "quantity": 1,
+        "unit_price": 4500,
+        "total_price": 4500,
+        "extras": [],
+        "ingredients": []
+      },
+      {
+        "id": 2,
+        "product": 9,
+        "product_name": "Coca-Cola 500ml",
+        "product_description": "Bebida gaseosa",
+        "quantity": 1,
+        "unit_price": 1200,
+        "total_price": 1200,
+        "extras": [],
+        "ingredients": []
+      },
+      {
+        "id": 3,
+        "product": 13,
+        "product_name": "Helado de Vainilla",
+        "product_description": "Cremoso y clásico",
+        "quantity": 1,
+        "unit_price": 1800,
+        "total_price": 1800,
+        "extras": [],
+        "ingredients": []
+      }
+    ],
+    "created_at": "2025-09-13T22:00:00.000Z",
+    "updated_at": "2025-09-13T22:00:00.000Z"
+  },
+  {
+    "id": 102,
+    "customer_name": "María Gómez",
+    "customer_phone": "+54 11 5555-0002",
+    "customer_email": "maria.gomez@example.com",
+    "delivery_address": "Calle Falsa 123, CABA",
+    "delivery_notes": "Dejar en portería",
+    "status": "confirmed",
+    "total_amount": 7700,
+    "items": [
+      {
+        "id": 1,
+        "product": 3,
+        "product_name": "BBQ Bacon Burger",
+        "product_description": "Carne, cheddar, bacon crocante y salsa BBQ",
+        "quantity": 1,
+        "unit_price": 6900,
+        "total_price": 6900,
+        "extras": [
+          {
+            "id": 1,
+            "ingredient": 7,
+            "ingredient_name": "Pepinillos",
+            "quantity": 1,
+            "unit_price": 300,
+            "total_price": 300
+          }
+        ],
+        "ingredients": []
+      },
+      {
+        "id": 2,
+        "product": 11,
+        "product_name": "Agua Sin Gas 500ml",
+        "product_description": "Agua mineral",
+        "quantity": 1,
+        "unit_price": 900,
+        "total_price": 900,
+        "extras": [],
+        "ingredients": []
+      }
+    ],
+    "created_at": "2025-09-13T22:30:00.000Z",
+    "updated_at": "2025-09-13T22:45:00.000Z"
+  },
+  {
+    "id": 103,
+    "customer_name": "Carlos López",
+    "customer_phone": "+54 11 5555-0003",
+    "customer_email": "carlos.lopez@example.com",
+    "delivery_address": "Av. Siempre Viva 742, CABA",
+    "delivery_notes": "Llamar al llegar",
+    "status": "preparing",
+    "total_amount": 7700,
+    "items": [
+      {
+        "id": 1,
+        "product": 2,
+        "product_name": "Hamburguesa Doble Queso",
+        "product_description": "Doble carne, doble cheddar, pan tostado",
+        "quantity": 1,
+        "unit_price": 6500,
+        "total_price": 6500,
+        "extras": [
+          {
+            "id": 1,
+            "ingredient": 4,
+            "ingredient_name": "Bacon",
+            "quantity": 1,
+            "unit_price": 700,
+            "total_price": 700
+          }
+        ],
+        "ingredients": []
+      },
+      {
+        "id": 2,
+        "product": 10,
+        "product_name": "Sprite 500ml",
+        "product_description": "Bebida gaseosa",
+        "quantity": 1,
+        "unit_price": 1200,
+        "total_price": 1200,
+        "extras": [],
+        "ingredients": []
+      }
+    ],
+    "created_at": "2025-09-13T23:10:00.000Z",
+    "updated_at": "2025-09-13T23:20:00.000Z"
+  }
+]

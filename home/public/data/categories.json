@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Hamburguesas", "icon": "🍔", "products_count": 0 },
+  { "id": 2, "name": "Pizzas", "icon": "🍕", "products_count": 0 },
+  { "id": 3, "name": "Bebidas", "icon": "🥤", "products_count": 0 },
+  { "id": 4, "name": "Postres", "icon": "🍨", "products_count": 0 },
+  { "id": 5, "name": "Combos", "icon": "🎉", "products_count": 0 }
+]

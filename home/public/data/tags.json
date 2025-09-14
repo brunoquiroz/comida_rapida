@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "Popular" },
+  { "id": 2, "name": "Queso" },
+  { "id": 3, "name": "BBQ" },
+  { "id": 4, "name": "Veggie" },
+  { "id": 5, "name": "Clásico" },
+  { "id": 6, "name": "Napolitana" },
+  { "id": 7, "name": "Picante" },
+  { "id": 8, "name": "Queso" },
+  { "id": 9, "name": "Dulce" },
+  { "id": 10, "name": "Chocolate" },
+  { "id": 11, "name": "Combo" }
+]

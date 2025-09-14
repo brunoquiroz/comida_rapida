@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "phone": "+54 11 5555-5555",
+  "email": "contacto@fastdemo.com",
+  "address": "Av. Demo 123, Buenos Aires",
+  "whatsapp": "+54 9 11 5555-5555",
+  "facebook": "https://facebook.com/fastdemo",
+  "instagram": "https://instagram.com/fastdemo",
+  "is_active": true,
+  "created_at": "",
+  "updated_at": ""
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "title": "Sabor que conquista corazones",
+  "subtitle": "Descubre la mejor comida rápida de la ciudad. Ingredientes frescos, sabores auténticos y servicio increíble.",
+  "button_text": "Ordenar Ahora",
+  "button_url": "#menu",
+  "background_image": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1600&auto=format&fit=crop",
+  "background_image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1600&auto=format&fit=crop",
+  "is_active": true,
+  "created_at": "",
+  "updated_at": ""
+}

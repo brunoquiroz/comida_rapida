@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "title": "Sobre Nosotros",
+  "subtitle": "Pasión por la comida",
+  "description": "Somos un equipo apasionado por la buena comida, la atención al detalle y un servicio de primera. Preparamos cada plato con ingredientes frescos y mucho cariño.",
+  "image_1": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=1600&auto=format&fit=crop",
+  "image_1_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=1600&auto=format&fit=crop",
+  "image_2": "https://images.unsplash.com/photo-1526318472351-c75fcf070305?q=80&w=1600&auto=format&fit=crop",
+  "image_2_url": "https://images.unsplash.com/photo-1526318472351-c75fcf070305?q=80&w=1600&auto=format&fit=crop",
+  "years_experience": 8,
+  "is_active": true,
+  "created_at": "",
+  "updated_at": ""
+}
