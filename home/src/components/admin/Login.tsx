@@ -33,6 +33,9 @@ const Login: React.FC = () => {
           <p className="mt-2 text-center text-sm text-gray-600">
             Ingresa tus credenciales para acceder
           </p>
+          <div className="mt-3 text-sm text-yellow-900 bg-yellow-50 border border-yellow-200 rounded-md p-3 text-center">
+            <span className="font-semibold">Modo demo:</span> usuario <span className="font-mono">admin</span> y contraseña <span className="font-mono">admin</span>
+          </div>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
           <div className="rounded-md shadow-sm -space-y-px">
